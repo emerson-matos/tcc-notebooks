@@ -1,3 +1,7 @@
 # tcc-notebooks
-exec docker compose up -d
-exec ./env.sh
+exec 
+docker compose up -d
+
+
+exec
+./env.sh
