@@ -1,14 +1,14 @@
 # tcc-notebooks
 exec 
 
-docker compose up -d
+> docker compose up -d
 
 to use text-generation-webui
 
 
 exec
 
-./env.sh
+> ./env.sh
 
 to use local google colab
 
